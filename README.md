@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate Web Developer and Aspiring Full Stack Software Engineer</h3>
+<h3 align="center">A passionate Web Developer and Aspiring Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Javascript Frameworks**
 
